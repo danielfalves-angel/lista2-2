@@ -5,6 +5,8 @@
     <title>Document</title>
 </head>
 <body>
+ 
+    <a href="ex_16.php">Exercício 16</a>
 
 </body>
 </html>
