@@ -7,6 +7,7 @@
 <body>
  
     <a href="ex_16.php">Exercício 16</a>
+    <a href="ex_17.php">Exercício 17</a>
 
 </body>
 </html>
